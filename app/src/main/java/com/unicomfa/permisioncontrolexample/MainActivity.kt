@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
-
+    // Esta es la funcion para abrir la camara
     private fun openCamera(){
         Toast.makeText(this, "Abriendo camara", Toast.LENGTH_SHORT).show()
     }
